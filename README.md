@@ -1,7 +1,7 @@
 ## Union , Intersection and Operations on Tree
 #### Introduction
 This project is used to union and intersection of two sets.
-It also performs the different operation on binary tree.
+It also performs the different operation on  tree.
 
 
 #### Requirements
